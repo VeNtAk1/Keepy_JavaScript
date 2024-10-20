@@ -21,3 +21,10 @@ alert(num);
 // a = 1;
 // b = 2;
 // c = 3;
+
+// Задача 15
+let a;
+a = 10;
+alert(a);
+a = 20;
+alert(a);
