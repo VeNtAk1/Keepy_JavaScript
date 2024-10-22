@@ -56,10 +56,19 @@
 // alert(result);
 
 // Задача 18_4
-let a = 10;
-let b = 5;
-a = a - b;
-let c = a;
-let d = 7;
-let result = c + d;
-alert(result);
+// let a = 10;
+// let b = 5;
+// a = a - b;
+// let c = a;
+// let d = 7;
+// let result = c + d;
+// alert(result);
+
+// Задача 19_1
+alert("Ответ: 20");
+// Задача 19_2
+alert("Ответ: 23");
+// Задача 19_3
+alert("Ответ: 6");
+// Задча 19_4
+alert("Ответ: 9");
