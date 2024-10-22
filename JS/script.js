@@ -33,3 +33,11 @@
 // let a = 1 + 2 + 3;
 // alert(a);
 
+// Задача 18
+// let a = 10;
+// let b = 2;
+// alert(a + b);
+// alert(a - b);
+// alert(a * b);
+// alert(a / b);
+
