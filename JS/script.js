@@ -8,8 +8,8 @@
 */
 // alert('Привет, мир!');
 // Задача 13
-let num = 123;
-alert(num);
+// let num = 123;
+// alert(num);
 // Задача 14
 // let a = 1;
 // let b = 2;
@@ -23,8 +23,13 @@ alert(num);
 // c = 3;
 
 // Задача 15
-let a;
-a = 10;
-alert(a);
-a = 20;
-alert(a);
+// let a;
+// a = 10;
+// alert(a);
+// a = 20;
+// alert(a);
+
+// Задача 17
+// let a = 1 + 2 + 3;
+// alert(a);
+
