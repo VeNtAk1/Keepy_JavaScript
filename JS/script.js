@@ -148,7 +148,11 @@
 // let txt  = 'aaa ' + 'xxx' + ' bbb ' + 'yyy' + ' ccc';
 
 // Задача 32
-let str = `a
-b
-c`;
-alert(str);
+// let str = `a
+// b
+// c`;
+// alert(str);
+
+// Задача 33
+let a;
+alert(a);
