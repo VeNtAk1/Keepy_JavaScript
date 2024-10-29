@@ -145,4 +145,10 @@
 // alert(a.length);
 
 // Задача 31
-let txt  = 'aaa ' + 'xxx' + ' bbb ' + 'yyy' + ' ccc';
+// let txt  = 'aaa ' + 'xxx' + ' bbb ' + 'yyy' + ' ccc';
+
+// Задача 32
+let str = `a
+b
+c`;
+alert(str);
