@@ -170,6 +170,16 @@
 // alert(f);
 
 // Задача 37
-let a = "wefw";
-let b = "erwrf";
-alert(a * b);
+// let a = "wefw";
+// let b = "erwrf";
+// alert(a * b);
+
+// Задача 38
+let a = 10;
+let b = 0;
+alert(a / b);
+
+// Задача 38_2
+let c = 10;
+let d = 0;
+alert(-a / b);
