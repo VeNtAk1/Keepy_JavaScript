@@ -92,7 +92,12 @@
 // alert("Ответ: 4")
 
 // Задача 22
-let a = 1.5
-let b = 0.75
-let result = a + b
-alert(result)
+// let a = 1.5
+// let b = 0.75
+// let result = a + b
+// alert(result)
+
+// Задача 23_1
+let a = -100;
+alert(a);
+
