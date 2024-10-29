@@ -175,11 +175,19 @@
 // alert(a * b);
 
 // Задача 38
-let a = 10;
-let b = 0;
-alert(a / b);
+// let a = 10;
+// let b = 0;
+// alert(a / b);
 
 // Задача 38_2
-let c = 10;
-let d = 0;
-alert(-a / b);
+// let c = 10;
+// let d = 0;
+// alert(-a / b);
+
+// Задача 39
+let num = 1;
+console.log(num);
+let a = 2;
+let b = 3;
+let c = 4;
+console.log(a, b, c);
