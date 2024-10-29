@@ -123,5 +123,17 @@
 // alert("Ответ_27_5: 1536")
 
 // Задача 28
-alert("Антоненко")
-alert("Владислав")
+// alert("Антоненко")
+// alert("Владислав")
+
+// Задача 29
+let str = "!!!";
+alert(str);
+// Задача 29_2
+let a = "java";
+let b = "script";
+alert(a + b);
+// Задача 29_3
+let c = "hello";
+let d = "world";
+alert(c + " " + d);
