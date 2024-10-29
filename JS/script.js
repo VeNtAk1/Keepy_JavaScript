@@ -198,4 +198,9 @@
 // console.log(true);
 
 // Задача 41
-console.log(eee);
+// console.log(eee);
+
+// Задача 42
+const pi = 3.14;
+const radius = 2;
+console.log(pi * 2 * radius);
