@@ -141,5 +141,8 @@
 // alert(c + " " + d);
 
 // Задача 30
-let a = "fwfwefw";
-alert(a.length);
+// let a = "fwfwefw";
+// alert(a.length);
+
+// Задача 31
+let txt  = 'aaa ' + 'xxx' + ' bbb ' + 'yyy' + ' ccc';
