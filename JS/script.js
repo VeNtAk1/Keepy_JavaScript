@@ -185,9 +185,14 @@
 // alert(-a / b);
 
 // Задача 39
-let num = 1;
-console.log(num);
-let a = 2;
-let b = 3;
-let c = 4;
-console.log(a, b, c);
+// let num = 1;
+// console.log(num);
+// let a = 2;
+// let b = 3;
+// let c = 4;
+// console.log(a, b, c);
+
+// Задача 40
+console.log(123);
+console.log("123");
+console.log(true);
