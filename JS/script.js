@@ -162,9 +162,14 @@
 // alert(a);
 
 // Задача 36
-let t = true;
-alert(t);
+// let t = true;
+// alert(t);
 
 // Задача 36_2
-let f = false;
-alert(f);
+// let f = false;
+// alert(f);
+
+// Задача 37
+let a = "wefw";
+let b = "erwrf";
+alert(a * b);
