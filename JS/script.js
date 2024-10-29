@@ -193,6 +193,9 @@
 // console.log(a, b, c);
 
 // Задача 40
-console.log(123);
-console.log("123");
-console.log(true);
+// console.log(123);
+// console.log("123");
+// console.log(true);
+
+// Задача 41
+console.log(eee);
