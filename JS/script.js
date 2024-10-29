@@ -158,5 +158,13 @@
 // alert(a);
 
 // Задача 35
-let a = null;
-alert(a);
+// let a = null;
+// alert(a);
+
+// Задача 36
+let t = true;
+alert(t);
+
+// Задача 36_2
+let f = false;
+alert(f);
