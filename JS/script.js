@@ -154,5 +154,9 @@
 // alert(str);
 
 // Задача 34
-let a;
+// let a;
+// alert(a);
+
+// Задача 35
+let a = null;
 alert(a);
