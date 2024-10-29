@@ -106,6 +106,11 @@
 // alert(-a);
 
 // Задача 25
-let a = 13;
-let b = 5;
-alert(a % b);
+// let a = 13;
+// let b = 5;
+// alert(a % b);
+
+// Задача 26
+let a = 2;
+let b = 10;
+alert(a ** b);
