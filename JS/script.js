@@ -98,6 +98,9 @@
 // alert(result)
 
 // Задача 23_1
-let a = -100;
-alert(a);
+// let a = -100;
+// alert(a);
+// Задача 23_2
+let a = 100;
+alert(-a);
 
