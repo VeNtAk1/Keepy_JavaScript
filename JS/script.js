@@ -220,3 +220,17 @@ console.log("Ответ_43_11: -3");
 console.log("Ответ_43_12: 8");
 console.log("Ответ_43_13: 7");
 console.log("Ответ_43_14: 31");
+
+// Задача 44_1
+let a = "10";
+let b = "20";
+console.log(Number(a) + Number(b));
+
+// Задача 44_2
+console.log("Ответ: 5");
+
+// Задача 44_3
+console.log("Ответ: 5");
+
+// Задача 44_4
+console.log("Ответ: 23");
