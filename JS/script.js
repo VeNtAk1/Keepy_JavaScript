@@ -206,31 +206,37 @@
 // console.log(pi * 2 * radius);
 
 // Задача 43
-console.log("Ответ_43_1: 52");
-console.log("Ответ_43_2: 52");
-console.log("Ответ_43_3: 52");
-console.log("Ответ_43_4: 7");
-console.log("Ответ_43_5: 10");
-console.log("Ответ_43_6: 3");
-console.log("Ответ_43_7: 2.5");
-console.log("Ответ_43_8: 1");
-console.log("Ответ_43_9: Nan");
-console.log("Ответ_43_10: 5s2");
-console.log("Ответ_43_11: -3");
-console.log("Ответ_43_12: 8");
-console.log("Ответ_43_13: 7");
-console.log("Ответ_43_14: 31");
+// console.log("Ответ_43_1: 52");
+// console.log("Ответ_43_2: 52");
+// console.log("Ответ_43_3: 52");
+// console.log("Ответ_43_4: 7");
+// console.log("Ответ_43_5: 10");
+// console.log("Ответ_43_6: 3");
+// console.log("Ответ_43_7: 2.5");
+// console.log("Ответ_43_8: 1");
+// console.log("Ответ_43_9: Nan");
+// console.log("Ответ_43_10: 5s2");
+// console.log("Ответ_43_11: -3");
+// console.log("Ответ_43_12: 8");
+// console.log("Ответ_43_13: 7");
+// console.log("Ответ_43_14: 31");
 
 // Задача 44_1
-let a = "10";
-let b = "20";
-console.log(Number(a) + Number(b));
+// let a = "10";
+// let b = "20";
+// console.log(Number(a) + Number(b));
 
 // Задача 44_2
-console.log("Ответ: 5");
+// console.log("Ответ: 5");
 
 // Задача 44_3
-console.log("Ответ: 5");
+// console.log("Ответ: 5");
 
 // Задача 44_4
-console.log("Ответ: 23");
+// console.log("Ответ: 23");
+
+// Задача 45
+// let a = '2';
+// let b = '3';
+// alert(Number(a) + Number(b));
+
