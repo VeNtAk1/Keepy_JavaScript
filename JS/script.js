@@ -259,6 +259,16 @@
 // alert(result_2 + "px");
 
 // Задача 48
-let a = 10;
-let b = 12;
-alert(String(a) + String(b));
+// let a = 10;
+// let b = 12;
+// alert(String(a) + String(b));
+
+// Задача 49
+let num = 123141341704312;
+alert(String(num).length);
+
+// Задача 49_2
+let a = 122;
+let b = 423;
+let result = String(a).length + String(b).length;
+alert(result);
