@@ -264,11 +264,26 @@
 // alert(String(a) + String(b));
 
 // Задача 49
-let num = 123141341704312;
-alert(String(num).length);
+// let num = 123141341704312;
+// alert(String(num).length);
 
 // Задача 49_2
-let a = 122;
-let b = 423;
-let result = String(a).length + String(b).length;
-alert(result);
+// let a = 122;
+// let b = 423;
+// let result = String(a).length + String(b).length;
+// alert(result);
+
+// Задача 50
+alert("Ответ: 4");
+// Задача 50_2
+alert("Ответ: 2");
+// Задача 50_3
+alert("Ответ: false");
+// Задача 50_4
+alert("Ответ: true");
+// Задача 50_5
+alert("Ответ: 11");
+// Задача 50_6
+alert("Ответ: true1");
+// Задача 50_7
+alert("Ответ: true1");
