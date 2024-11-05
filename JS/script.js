@@ -241,19 +241,24 @@
 // alert(Number(a) + Number(b));
 
 // Задача 47_1
-let num = parseInt("5px");
-let num_2 = parseInt("6px");
-let result = num + num_2;
-alert(result);
+// let num = parseInt("5px");
+// let num_2 = parseInt("6px");
+// let result = num + num_2;
+// alert(result);
 
 // Задача 47_2
-let num_3 = parseFloat("5.5px");
-let num_4 = parseFloat("6.25px");
-let result_2 = num_3 + num_4;
-alert(result_2);
+// let num_3 = parseFloat("5.5px");
+// let num_4 = parseFloat("6.25px");
+// let result_2 = num_3 + num_4;
+// alert(result_2);
 
 // Задача 47_3
-let num_5 = parseFloat("5.5px");
-let num_6 = parseFloat("6.25px");
-let result_3 = num_5 + num_6;
-alert(result_2 + "px");
+// let num_5 = parseFloat("5.5px");
+// let num_6 = parseFloat("6.25px");
+// let result_3 = num_5 + num_6;
+// alert(result_2 + "px");
+
+// Задача 48
+let a = 10;
+let b = 12;
+alert(String(a) + String(b));
