@@ -342,7 +342,22 @@
 // alert(a[4] + a[3] + a[2] + a[1] + a[0]);
 
 // Задача 52_3
+// let str = "abcde";
+// let num = 3;
+// let result = str[3];
+// alert(result);
+
+// Задача 53_1
+// let str = "abcde";
+// let last = str.length - 1;
+// alert(str[last]);
+
+// Задача 53_2
+// let str = "abcde";
+// let last = str.length - 2;
+// alert(str[last]);
+
+// Задача 53_3
 let str = "abcde";
-let num = 3;
-let result = str[3];
-alert(result);
+let last = str.length - 3;
+alert(str[last]);
